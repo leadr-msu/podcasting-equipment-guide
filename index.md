@@ -1,5 +1,5 @@
 ## Podcasting Equipment Guide
-Created by D. Fandino
+Created by Daniel Fandino
 
 The podcast station is comprised of the audio mixing board, four microphones, four headphones, and a connected Zoom Handy Mic. Recording of audio sessions is done through the Handy Mic while the audio board controls the recording volume levels, headphone volume, and which microphones are active. A memory card for the Handy Mic is required to record. Ensure the memory card is blank for best results. 
 CAUTION: As the podcasting table packs in a lot of equipment in a small space, please be careful to not trip or pull on any wires which can damage the equipment or cause injury. .When you have completed a session, ensure all cables and wires are neatly put away.
@@ -23,7 +23,7 @@ Images of all equipment are at the end of this document for reference.
 
 9.	Once recording is complete, turn off the Handy Mic and remove the memory card. Do not turn off the audio board or amplifier. Return mics, headphones and chairs to their original positions. Take care to keep wires and cables on the table and tucked away so others will not accidentally pull on them. Make certain to copy the recorded audio files to a computer or other medium as a backup, even if you are using your own memory card. LEADR cards are wiped on a regular basis and your data may be lost after a memory device is returned.
 
-##Podcasting tips
+## Podcasting tips
 
 The round metal attachments on the microphone are pop filters, which cut down on hissing and popping recorded from normal speaking, as the microphones are sensitive and will pick up the exhalation of breath. Speak directly towards the microphone for best audio pickup.
 As a completely audio medium, visual communication can be used to convey instructions without stopping the recording or having unwanted conversations. Having a white board or other means of visual communication can allow for real time interaction and a reduction of editing time.
@@ -31,7 +31,7 @@ Maintain a consistent distance from the microphone. Having different participant
 
 ## Equipment
 
-Reference Images
+## Reference Images
 
 Image I: The audio mixing board. The four lower leftmost white knobs control the microphones gain. The white monitor/phones knob on the lower right hand side next to the red stereo knob controls the headphone volume. 
 
